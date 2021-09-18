@@ -1,0 +1,2 @@
+# -
+E:\pythonProject\main.py
